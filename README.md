@@ -69,7 +69,7 @@ one can use git/GitHub. The README includes an
 example of making a commit message.
 ```
 
-## 8: Next steps
+## 9: Next steps
 
   1. [Using git branches](https://www.atlassian.com/git/tutorials/using-branchesgith)
   2. [Issues](https://docs.github.com/en/github/managing-your-work-on-github/about-issues)
